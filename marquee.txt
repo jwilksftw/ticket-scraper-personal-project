@@ -1,0 +1,221 @@
+[<div class="eventInfo">
+<span>MDW Jamie Jones Late Night Session</span> <span id="show-time"><br/>02:00 AM</span>
+<span class="showLinkPoster">
+<img src="https://s3.amazonaws.com/webassets.ticketmob.com/ES/images/ShowPosters/48C15221-EBC5-E720-CC94413B59094740.jpg"/>
+</span>
+</div>, <div class="eventInfo">
+<span>MDW Cash Cash- Dayclub</span> <span id="show-time"><br/>10:00 AM</span>
+<span class="showLinkPoster">
+<img src="https://s3.amazonaws.com/webassets.ticketmob.com/ES/images/ShowPosters/48336EBA-BDAC-0FD6-7382C528B22E9B60.jpg"/>
+</span>
+</div>, <div class="eventInfo">
+<span>MDW Carnage  Nightclub</span> <span id="show-time"><br/>10:00 PM</span>
+<span class="showLinkPoster">
+<img src="https://s3.amazonaws.com/webassets.ticketmob.com/ES/images/ShowPosters/48C57994-AB11-9D8A-8715FD15F7C0909F.jpg"/>
+</span>
+</div>, <div class="eventInfo">
+<span>Official OBC After Party - Boom Box Room</span> <span id="show-time"><br/>10:00 PM</span>
+<span class="showLinkPoster">
+<img src="https://s3.amazonaws.com/webassets.ticketmob.com/ES/images/ShowPosters/7824731B-9E97-9449-580C620096F293F4.jpg"/>
+</span>
+</div>, <div class="eventInfo">
+<span>Kyle Rayner - Dayclub</span> <span id="show-time"><br/>11:00 AM</span>
+<span class="showLinkPoster">
+<img src="https://s3.amazonaws.com/webassets.ticketmob.com/ES/images/ShowPosters/DD362544-0F00-3E3E-507F9A04200A99F2.jpg"/>
+</span>
+</div>, <div class="eventInfo">
+<span>Chuckie- Nightclub</span> <span id="show-time"><br/>10:00 PM</span>
+<span class="showLinkPoster">
+<img src="https://s3.amazonaws.com/webassets.ticketmob.com/ES/images/ShowPosters/1911BD34-A32E-A0FE-49C8D3EF695CDD65.jpg"/>
+</span>
+</div>, <div class="eventInfo">
+<span>Paul Oakenfold - Dayclub</span> <span id="show-time"><br/>11:00 AM</span>
+<span class="showLinkPoster">
+<img src="https://s3.amazonaws.com/webassets.ticketmob.com/ES/images/ShowPosters/7759FFA3-E7E0-D49A-D1815FFFDFEC7EF8.jpg"/>
+</span>
+</div>, <div class="eventInfo">
+<span>Lema- Nightclub</span> <span id="show-time"><br/>10:00 PM</span>
+<span class="showLinkPoster">
+<img src="https://s3.amazonaws.com/webassets.ticketmob.com/ES/images/ShowPosters/7BFBDB38-BDDC-E2A3-F43359655A5B8792.jpg"/>
+</span>
+</div>, <div class="eventInfo">
+<span>DJ Five - Marquee Dayclub</span> <span id="show-time"><br/>11:00 AM</span>
+<span class="showLinkPoster">
+<img src="https://s3.amazonaws.com/webassets.ticketmob.com/ES/images/ShowPosters/FA70E9DA-AC3C-2E0D-3B57672B52C4FFC9.jpg"/>
+</span>
+</div>, <div class="eventInfo">
+<span>Lema- Nightclub</span> <span id="show-time"><br/>10:00 PM</span>
+<span class="showLinkPoster">
+<img src="https://s3.amazonaws.com/webassets.ticketmob.com/ES/images/ShowPosters/EE4DA21F-DB67-4391-A1CAB2C4587EAF86.jpg"/>
+</span>
+</div>, <div class="eventInfo">
+<span>Frank Rempe - Dayclub</span> <span id="show-time"><br/>11:00 AM</span>
+<span class="showLinkPoster">
+<img src="https://s3.amazonaws.com/webassets.ticketmob.com/ES/images/ShowPosters/1B0AE464-ACBC-CE94-68E6BAE6037FBB03.jpg"/>
+</span>
+</div>, <div class="eventInfo">
+<span>Gareth Emery-Nightclub</span> <span id="show-time"><br/>10:00 PM</span>
+<span class="showLinkPoster">
+<img src="https://s3.amazonaws.com/webassets.ticketmob.com/ES/images/ShowPosters/7790FA8C-9F4D-B17C-8E4B0484A04A6AD9.jpg"/>
+</span>
+</div>, <div class="eventInfo">
+<span>Ferry Corsten - Dayclub</span> <span id="show-time"><br/>11:00 AM</span>
+<span class="showLinkPoster">
+<img src="https://s3.amazonaws.com/webassets.ticketmob.com/ES/images/ShowPosters/0D7A712B-B39E-AD8B-2302E1D81920F57F.jpg"/>
+</span>
+</div>, <div class="eventInfo">
+<span>Kaskade Summer Lovin- Nightclub</span> <span id="show-time"><br/>10:00 PM</span>
+<span class="showLinkPoster">
+<img src="https://s3.amazonaws.com/webassets.ticketmob.com/ES/images/ShowPosters/DDB3F140-A335-DEC9-C6580B82129F8366.jpg"/>
+</span>
+</div>, <div class="eventInfo">
+<span>EC Twins - Dayclub</span> <span id="show-time"><br/>11:00 AM</span>
+<span class="showLinkPoster">
+<img src="https://s3.amazonaws.com/webassets.ticketmob.com/ES/images/ShowPosters/361B4B2B-C44E-8518-C640B8361B253988.jpg"/>
+</span>
+</div>, <div class="eventInfo">
+<span>Vice- Nightclub</span> <span id="show-time"><br/>10:00 PM</span>
+<span class="showLinkPoster">
+<img src="https://s3.amazonaws.com/webassets.ticketmob.com/ES/images/ShowPosters/EE543A8E-D924-FF34-2EC9A09126C1A4B9.jpg"/>
+</span>
+</div>, <div class="eventInfo">
+<span>Frank Rempe - Dayclub</span> <span id="show-time"><br/>11:00 AM</span>
+<span class="showLinkPoster">
+<img src="https://s3.amazonaws.com/webassets.ticketmob.com/ES/images/ShowPosters/495863CB-0EE4-5731-42AC5ADD3AA90678.jpg"/>
+</span>
+</div>, <div class="eventInfo">
+<span>Benny Benassi  Nightclub</span> <span id="show-time"><br/>10:00 PM</span>
+<span class="showLinkPoster">
+<img src="https://s3.amazonaws.com/webassets.ticketmob.com/ES/images/ShowPosters/EE6032D6-D4D8-7732-D3DE441402BE8A47.jpg"/>
+</span>
+</div>, <div class="eventInfo">
+<span>Markus Schulz - Dayclub</span> <span id="show-time"><br/>11:00 AM</span>
+<span class="showLinkPoster">
+<img src="https://s3.amazonaws.com/webassets.ticketmob.com/ES/images/ShowPosters/812D129F-E60F-FC70-870E7D8DE62D64AE.jpg"/>
+</span>
+</div>, <div class="eventInfo">
+<span>Chuckie- Nightclub</span> <span id="show-time"><br/>10:00 PM</span>
+<span class="showLinkPoster">
+<img src="https://s3.amazonaws.com/webassets.ticketmob.com/ES/images/ShowPosters/EE6C4ED5-E914-2032-C385BFE9C389F7A1.jpg"/>
+</span>
+</div>, <div class="eventInfo">
+<span>Firebeatz - Dayclub</span> <span id="show-time"><br/>11:00 AM</span>
+<span class="showLinkPoster">
+<img src="https://s3.amazonaws.com/webassets.ticketmob.com/ES/images/ShowPosters/0DC2DEF9-937B-01ED-3231F8B2A75FAA7D.jpg"/>
+</span>
+</div>, <div class="eventInfo">
+<span>Dash Berlin with Cash Cash - Nightclub</span> <span id="show-time"><br/>10:00 PM</span>
+<span class="showLinkPoster">
+<img src="https://s3.amazonaws.com/webassets.ticketmob.com/ES/images/ShowPosters/7DE399D0-BDA7-C25D-9FA0D39BFD573D41.jpg"/>
+</span>
+</div>, <div class="eventInfo">
+<span>EDC EC Twins- Dayclub</span> <span id="show-time"><br/>11:00 AM</span>
+<span class="showLinkPoster">
+<img src="https://s3.amazonaws.com/webassets.ticketmob.com/ES/images/ShowPosters/70AF4405-A918-13A0-DD535603FD9F206A.jpg"/>
+</span>
+</div>, <div class="eventInfo">
+<span>EDC Sander Van Doorn - Dayclub</span> <span id="show-time"><br/>11:00 AM</span>
+<span class="showLinkPoster">
+<img src="https://s3.amazonaws.com/webassets.ticketmob.com/ES/images/ShowPosters/7DDCC8F8-F63F-6B31-CA6C9403F38D8701.jpg"/>
+</span>
+</div>, <div class="eventInfo">
+<span>Dash Berlin at the Boulevard Pool in the Cosmopolitan</span> <span id="show-time"><br/>08:00 PM</span>
+<span class="showLinkPoster">
+<img src="https://s3.amazonaws.com/webassets.ticketmob.com/ES/images/ShowPosters/743E2EA1-9638-8AB4-4D7D3027B4244919.jpg"/>
+</span>
+</div>, <div class="eventInfo">
+<span>EDC Armin Van Buuren- Nightclub</span> <span id="show-time"><br/>10:00 PM</span>
+<span class="showLinkPoster">
+<img src="https://s3.amazonaws.com/webassets.ticketmob.com/ES/images/ShowPosters/706ED06A-0F42-1000-A3FC6A293C7EA77B.jpg"/>
+</span>
+</div>, <div class="eventInfo">
+<span>EDC Benny Benassi- Dayclub</span> <span id="show-time"><br/>11:00 AM</span>
+<span class="showLinkPoster">
+<img src="https://s3.amazonaws.com/webassets.ticketmob.com/ES/images/ShowPosters/70B45350-07A9-66F6-02F477F576F5C572.jpg"/>
+</span>
+</div>, <div class="eventInfo">
+<span>EDC Porter Robinson- Nightclub</span> <span id="show-time"><br/>10:00 PM</span>
+<span class="showLinkPoster">
+<img src="https://s3.amazonaws.com/webassets.ticketmob.com/ES/images/ShowPosters/7070371D-00DA-EC63-4C9728227EC066BC.jpg"/>
+</span>
+</div>, <div class="eventInfo">
+<span>Kaskade EDC Weekend - Dayclub</span> <span id="show-time"><br/>10:00 AM</span>
+<span class="showLinkPoster">
+<img src="https://s3.amazonaws.com/webassets.ticketmob.com/ES/images/ShowPosters/82E9F4F1-B5BA-FD87-FB1D9A790951DFF4.jpg"/>
+</span>
+</div>, <div class="eventInfo">
+<span>EDC Gareth Emery- Nightclub</span> <span id="show-time"><br/>10:00 PM</span>
+<span class="showLinkPoster">
+<img src="https://s3.amazonaws.com/webassets.ticketmob.com/ES/images/ShowPosters/7071AA8D-E95D-DC79-E716D5F3CB1FB9CA.jpg"/>
+</span>
+</div>, <div class="eventInfo">
+<span>Kaskade EDC Weekend - Dayclub</span> <span id="show-time"><br/>10:00 AM</span>
+<span class="showLinkPoster">
+<img src="https://s3.amazonaws.com/webassets.ticketmob.com/ES/images/ShowPosters/82E7B689-CCD7-42E6-8208AE02BE46BF0A.jpg"/>
+</span>
+</div>, <div class="eventInfo">
+<span>Firebeatz - Dayclub</span> <span id="show-time"><br/>11:00 AM</span>
+<span class="showLinkPoster">
+<img src="https://s3.amazonaws.com/webassets.ticketmob.com/ES/images/ShowPosters/1C9C59FE-0108-6D75-525F32A27706F86D.jpg"/>
+</span>
+</div>, <div class="eventInfo">
+<span>EDC Carnage  Nightclub</span> <span id="show-time"><br/>10:00 PM</span>
+<span class="showLinkPoster">
+<img src="https://s3.amazonaws.com/webassets.ticketmob.com/ES/images/ShowPosters/EE760DD7-D8CD-A69A-7AB21D6E81BE597D.jpg"/>
+</span>
+</div>, <div class="eventInfo">
+<span>Lema - Dayclub</span> <span id="show-time"><br/>11:00 AM</span>
+<span class="showLinkPoster">
+<img src="https://s3.amazonaws.com/webassets.ticketmob.com/ES/images/ShowPosters/36299D9F-067D-629D-C89BF3C9E844FC7E.jpg"/>
+</span>
+</div>, <div class="eventInfo">
+<span>Savi-Marquee Nightclub</span> <span id="show-time"><br/>10:00 PM</span>
+<span class="showLinkPoster">
+<img src="https://s3.amazonaws.com/webassets.ticketmob.com/ES/images/ShowPosters/8118F3E8-E237-9F95-47B6DA902473B1C9.jpg"/>
+</span>
+</div>, <div class="eventInfo">
+<span>Kennedy Jones - Dayclub</span> <span id="show-time"><br/>11:00 AM</span>
+<span class="showLinkPoster">
+<img src="https://s3.amazonaws.com/webassets.ticketmob.com/ES/images/ShowPosters/8134CC1C-FAC2-B211-241F997BFDA2DEC6.jpg"/>
+</span>
+</div>, <div class="eventInfo">
+<span>Vice- Nightclub</span> <span id="show-time"><br/>10:00 PM</span>
+<span class="showLinkPoster">
+<img src="https://s3.amazonaws.com/webassets.ticketmob.com/ES/images/ShowPosters/1AED130A-0ACF-C526-A6E1A262385CFAE6.jpg"/>
+</span>
+</div>, <div class="eventInfo">
+<span>Ashley Wallbridge - Dayclub</span> <span id="show-time"><br/>11:00 AM</span>
+<span class="showLinkPoster">
+<img src="https://s3.amazonaws.com/webassets.ticketmob.com/ES/images/ShowPosters/4F77AF50-F375-3CC5-08CD53F533BF2679.jpg"/>
+</span>
+</div>, <div class="eventInfo">
+<span>Eric D-Lux  Nightclub</span> <span id="show-time"><br/>10:00 PM</span>
+<span class="showLinkPoster">
+<img src="https://s3.amazonaws.com/webassets.ticketmob.com/ES/images/ShowPosters/EE787A24-92F6-D0FB-3FF6FEE77E47F0B1.jpg"/>
+</span>
+</div>, <div class="eventInfo">
+<span>EC Twins - Marquee Dayclub</span> <span id="show-time"><br/>11:00 AM</span>
+<span class="showLinkPoster">
+<img src="https://s3.amazonaws.com/webassets.ticketmob.com/ES/images/ShowPosters/82C795C7-E07C-511D-9BF463E9D1F61509.jpg"/>
+</span>
+</div>, <div class="eventInfo">
+<span>Gareth Emery-Nightclub</span> <span id="show-time"><br/>10:00 PM</span>
+<span class="showLinkPoster">
+<img src="https://s3.amazonaws.com/webassets.ticketmob.com/ES/images/ShowPosters/8601C963-0124-A31C-5C5527A5E62B5383.jpg"/>
+</span>
+</div>, <div class="eventInfo">
+<span>Carnage - Marquee Dayclub</span> <span id="show-time"><br/>11:00 AM</span>
+<span class="showLinkPoster">
+<img src="https://s3.amazonaws.com/webassets.ticketmob.com/ES/images/ShowPosters/813B2866-D0C7-1C54-DFA17E28807C44C4.jpg"/>
+</span>
+</div>, <div class="eventInfo">
+<span>Kaskade Summer Lovin- Nightclub</span> <span id="show-time"><br/>10:00 PM</span>
+<span class="showLinkPoster">
+<img src="https://s3.amazonaws.com/webassets.ticketmob.com/ES/images/ShowPosters/81EE4012-CAD8-312C-65846A91AB1D4A0B.jpg"/>
+</span>
+</div>, <div class="eventInfo">
+<span>Cash Cash - Marquee Dayclub</span> <span id="show-time"><br/>11:00 AM</span>
+<span class="showLinkPoster">
+<img src="https://s3.amazonaws.com/webassets.ticketmob.com/ES/images/ShowPosters/8301EC2D-AAC8-C364-0EC989617E3D8778.jpg"/>
+</span>
+</div>]
