@@ -67,14 +67,14 @@ try:
     if data1==data:
         print 'No change'
     else:
-        fromaddr = 'jwilksftw@gmail.com'  
-        toaddrs  = 'jwilksftw@gmail.com'  
+        fromaddr = 'YOURGMAILADDRESS'  
+        toaddrs  = 'INTEDED RECIPIENT'  
         msg = subFound2
   
   
         # Credentials (if needed)  
-        username = ''  
-        password = ''  
+        username = 'YOURGMAILUSERNAME'  
+        password = 'YOURGMAILPASSWORD'  
   
         # The actual mail send  
         server = smtplib.SMTP('smtp.gmail.com:587')  
